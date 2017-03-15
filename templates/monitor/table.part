@@ -1,0 +1,6 @@
+<tr>
+	<td style="width: 100px;">${id}</td>
+	<td style="width: 20%;">${chengshu}</td>
+    <td style="width: 20%;">${beichengshu}</td>
+    <td style="width: 20%;">${cfresult}</td>
+</tr>
